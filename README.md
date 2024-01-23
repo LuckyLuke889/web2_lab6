@@ -1,2 +1,1 @@
-# web2_lab6
-Vue project
+# web2-spa
